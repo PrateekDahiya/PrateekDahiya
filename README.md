@@ -12,8 +12,8 @@
 ### 👨‍💻 About Me
 
 - 🎓 B.Tech in Information Technology at **NIT Kurukshetra** (2022–2026)
-- 🔭 I’m currently working on **VidVault** — a YouTube clone with a personalized feed
-- 🌱 Learning **Generative AI** and sharpening my **DSA skills**
+- 🔭 I’m currently working on **EduTracker**
+- 🌱 Learning **Web Deveploment**
 - 💬 Ask me about **React, Node.js, MongoDB, Flask, or MySQL**
 - 🧠 Solved **200+ DSA problems** on LeetCode, GFG, Coding Ninjas
 - 📫 Reach me at: **dahiyaprtk27@gmail.com**
