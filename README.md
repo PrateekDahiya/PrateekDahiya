@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prateek Dahiya</h1>
-<h3 align="center">🚀 Full-Stack Developer | 🎯 DSA Enthusiast | 🤖 GenAI & ML Explorer</h3>
+<h3 align="center">🚀 Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://github.com/PrateekDahiya">
