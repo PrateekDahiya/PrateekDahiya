@@ -85,7 +85,6 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=PrateekDahiya&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrateekDahiya&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
