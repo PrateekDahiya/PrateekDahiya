@@ -19,7 +19,7 @@
 - 💬 Ask me about **Java, Kotlin, Spring Boot, React, Next.js, Node.js, MongoDB, MySQL, or Flask**
 - 📫 Reach me at: **dahiyaprateek27@gmail.com**
 - 🌐 [Portfolio Website](https://dahiya-prtk-portfolio.onrender.com/)
-- 📄 [My Resume](https://dahiya-prtk-portfolio.onrender.com/)
+- 📄 [My Resume](https://drive.google.com/file/d/1GJK05rIgeTq3D9RbfyPkE0DJ_RMYtXqh/view)
 
 ---
 
