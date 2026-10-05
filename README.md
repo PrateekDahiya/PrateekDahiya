@@ -1,119 +1,214 @@
-<h1 align="center">Hi 👋, I'm Prateek Dahiya</h1>
-<h3 align="center">🚀 Software Engineer | Full-Stack Developer</h3>
 
-<p align="center">
-  <a href="https://github.com/PrateekDahiya">
-    <img src="https://komarev.com/ghpvc/?username=PrateekDahiya&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<div align="center">
+
+# 👋 Hi, I'm Prateek Dahiya
+
+### Software Engineer · Full-Stack Developer
+
+<p>
+  <a href="https://dahiya-prtk-portfolio.onrender.com/">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dahiyaprtk27">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:dahiyaprateek27@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1GJK05rIgeTq3D9RbfyPkE0DJ_RMYtXqh/view">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
   </a>
 </p>
 
----
+<img src="https://komarev.com/ghpvc/?username=PrateekDahiya&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
 
-### 👨‍💻 About Me
-
-- 🎓 B.Tech in Information Technology at **NIT Kurukshetra** (2022–2026)
-- 💼 Software Engineer at **Leap Finance**
-- 🛠️ Working with **Java, Kotlin, Spring Boot, REST APIs, Docker, CI/CD, MySQL, PostgreSQL, and AWS**
-- 🌐 Building full-stack applications with **React, Next.js, Node.js, and Express.js**
-- 🧠 Solved **200+ DSA problems** on LeetCode and GeeksforGeeks
-- 💬 Ask me about **Java, Kotlin, Spring Boot, React, Next.js, Node.js, MongoDB, MySQL, or Flask**
-- 📫 Reach me at: **dahiyaprateek27@gmail.com**
-- 🌐 [Portfolio Website](https://dahiya-prtk-portfolio.onrender.com/)
-- 📄 [My Resume](https://drive.google.com/file/d/1GJK05rIgeTq3D9RbfyPkE0DJ_RMYtXqh/view)
+</div>
 
 ---
 
-### 🔗 Connect with Me
+## 👨‍💻 About Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/dahiyaprtk27" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/dahiya_prtk27/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
+I'm a **Software Engineer at Leap Finance** focused on backend engineering, API development, and full-stack application development.
+
+- 🎓 B.Tech in Information Technology — **NIT Kurukshetra**
+- ⚙️ Building with **Java, Kotlin, Spring Boot, React, Next.js, Node.js, and Express.js**
+- ☁️ Working with **Docker, AWS, CI/CD, MySQL, PostgreSQL, MongoDB, and Redis**
+- 🧠 Solved **200+ DSA problems** across LeetCode and GeeksforGeeks
+- 🎨 Outside of development, I enjoy **sketching and painting**
+
+---
+
+## 💼 What I Work On
+
+| Backend Engineering | Full-Stack Development | Cloud & DevOps |
+|:---:|:---:|:---:|
+| Java · Kotlin · Spring Boot | React · Next.js · Node.js | Docker · AWS |
+| REST APIs · Microservices | Express.js · HTML · CSS | CI/CD · Render |
+| Hibernate/JPA | Tailwind CSS | PostgreSQL · MySQL |
+
+---
+
+## 🚀 Selected Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🎥 VidVault
+
+Full-stack video streaming platform with:
+
+- Custom video player
+- Personalized feeds
+- Trending content
+- Time-weighted trending algorithm
+- MySQL-backed data layer
+
+**Stack**
+
+<code>React</code> <code>Express.js</code> <code>MySQL</code> <code>Render</code>
+
+<p>
+  <a href="https://youtube-combine.onrender.com/"><b>Live Demo</b></a> ·
+  <a href="https://github.com/PrateekDahiya/Youtube-combine"><b>Source</b></a>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🎓 EduTracker
+
+Student productivity platform for:
+
+- Attendance tracking
+- Class schedules
+- Task management
+- Google OAuth
+- Credential authentication
+
+**Stack**
+
+<code>Next.js</code> <code>Tailwind CSS</code> <code>MongoDB</code> <code>NextAuth</code>
+
+<p>
+  <a href="https://edutracker-pi.vercel.app/"><b>Live Demo</b></a> ·
+  <a href="https://github.com/PrateekDahiya/edutracker"><b>Source</b></a>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🌐 LingoVerse
+
+Language-learning platform featuring:
+
+- 20+ languages
+- Interactive flashcards
+- Quizzes
+- Responsive learning interfaces
+- Firebase integration
+
+**Stack**
+
+<code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Firebase</code>
+
+<p>
+  <a href="https://lingoverse-37674.web.app/"><b>Live Demo</b></a> ·
+  <a href="https://github.com/PrateekDahiya/LanguageLearning"><b>Source</b></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C/C++"/>
+</p>
+
+### Backend & APIs
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/Microservices-20232A?style=flat-square&logo=buffer&logoColor=white" alt="Microservices"/>
+</p>
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+</p>
+
+### Databases & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=0A0A0A" alt="Render"/>
+</p>
+
+### Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate"/>
 </p>
 
 ---
 
-### 🚀 Featured Projects
+## 🏆 Achievements
 
-- 🎓 **[EduTracker](https://edutracker-pi.vercel.app/)**
-  
-  A full-stack student productivity platform for attendance tracking, class schedules, and task management, built with Next.js.
-  
-  🔐 Secure authentication with credentials and Google OAuth using NextAuth, with MongoDB for persistent application data.
-  
-  🔗 [GitHub Repo](https://github.com/PrateekDahiya/edutracker)
-
-- 🎥 **[VidVault](https://youtube-combine.onrender.com/)**
-  
-  Full-stack video streaming platform featuring a custom video player, personalized feeds, trending content, and a time-weighted trending algorithm.
-  
-  🗄️ Built with Express.js, React, and MySQL and deployed on Render.
-  
-  🔗 [GitHub Repo](https://github.com/PrateekDahiya/Youtube-combine)
-
-- 🌐 **[LingoVerse](https://lingoverse-37674.web.app/)**
-  
-  Language-learning platform supporting 20+ languages with interactive flashcards and quizzes.
-  
-  🔥 Built with HTML, CSS, JavaScript, and Firebase.
-  
-  🔗 [GitHub Repo](https://github.com/PrateekDahiya/LanguageLearning)
-
-- 🧑‍💼 **[Portfolio Website](https://dahiya-prtk-portfolio.onrender.com/)**
-  
-  A personal portfolio showcasing projects, resume, and skills.
-  
-  🔗 [Source Code](https://github.com/PrateekDahiya/my-portfolio)
-
-- 👾 **[Pac-Man Clone](https://dahiya-prtk27.itch.io/pacman-clone)**
-  
-  GameMaker implementation of classic Pac-Man with working character logic.
-
-- 🔧 **[Automatic Garage Opener](https://www.tinkercad.com/things/7rnUvI87Rk0-automatic-garage-opener)**
-  
-  Arduino + IR sensor-based project for smart home garage automation.
+- 🧠 **200+** coding problems solved across LeetCode and GeeksforGeeks
+- 🏅 **Adobe India Hackathon** — cleared 2 rounds
+- 🏅 **Flipkart GRiD 6.0** — cleared 2 rounds
 
 ---
 
-### 🛠️ Languages and Tools
+## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="Next.js" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40"/>
-</p>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PrateekDahiya&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Prateek's GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrateekDahiya&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages"/>
+</div>
 
 ---
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PrateekDahiya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=PrateekDahiya&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
+### 🤝 Let's Connect
 
----
+<a href="https://dahiya-prtk-portfolio.onrender.com/">Portfolio</a> ·
+<a href="https://www.linkedin.com/in/dahiyaprtk27">LinkedIn</a> ·
+<a href="https://github.com/PrateekDahiya">GitHub</a> ·
+<a href="mailto:dahiyaprateek27@gmail.com">Email</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=PrateekDahiya&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
+
+</div>
 
 <!---
 PrateekDahiya/PrateekDahiya is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
