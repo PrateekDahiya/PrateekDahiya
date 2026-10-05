@@ -28,7 +28,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer at Leap Finance** focused on backend engineering, API development, and full-stack application development.
+I'm a software engineer focused on **backend engineering, API development, full-stack applications, and developer tooling**.
 
 - 🎓 B.Tech in Information Technology — **NIT Kurukshetra**
 - ⚙️ Building with **Java, Kotlin, Spring Boot, React, Next.js, Node.js, and Express.js**
@@ -40,23 +40,89 @@ I'm a **Software Engineer at Leap Finance** focused on backend engineering, API 
 
 ## 💼 What I Work On
 
-| Backend Engineering | Full-Stack Development | Cloud & DevOps |
+| Backend Engineering | Full-Stack Development | Cloud, AI & Tooling |
 |:---:|:---:|:---:|
 | Java · Kotlin · Spring Boot | React · Next.js · Node.js | Docker · AWS |
 | REST APIs · Microservices | Express.js · HTML · CSS | CI/CD · Render |
-| Hibernate/JPA | Tailwind CSS | PostgreSQL · MySQL |
+| Hibernate/JPA | Tailwind CSS | AI Agents · Developer Tools |
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Current Projects
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
+
+### 🚢 ShipYard
+**Self-hosted application deployment platform**
+
+- Render/Heroku-style deployment workflow
+- Project and deployment management
+- Metrics, requests, domains, logs and shell
+- Redis-backed deployment worker and queues
+- Next.js dashboard with Node/Express backend
+
+**Stack**
+
+<code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Node.js</code> <code>Express.js</code> <code>MySQL</code> <code>Redis</code> <code>Docker</code>
+
+<p>
+  <a href="https://github.com/PrateekDahiya/shipYard"><b>Source</b></a>
+  &nbsp; <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square" alt="In Progress"/>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧩 DSA Practice
+**LeetCode-like coding practice platform**
+
+- Run and submit coding solutions
+- Visible and hidden test cases
+- JavaScript and Python execution
+- JSON-based question definition and schema
+- Local code execution with timeout and result reporting
+
+**Stack**
+
+<code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Node.js</code> <code>Python</code>
+
+<p>
+  <a href="https://github.com/PrateekDahiya/dsaPractice"><b>Source</b></a>
+  &nbsp; <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square" alt="In Progress"/>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 2048 AI
+**AI bot trained and tuned to play 2048**
+
+- Self-play training and evaluation
+- Expectimax-based decision making
+- Automated board perception
+- Screen capture and move execution
+- Supports real-game auto-play with safety controls
+
+**Stack**
+
+<code>Python</code> <code>Expectimax</code> <code>mss</code> <code>Playwright</code> <code>Selenium</code>
+
+<p>
+  <a href="https://github.com/PrateekDahiya/2048"><b>Source</b></a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🎥 VidVault
-
-Full-stack video streaming platform with:
+**Full-stack video streaming platform**
 
 - Custom video player
 - Personalized feeds
@@ -74,12 +140,13 @@ Full-stack video streaming platform with:
 </p>
 
 </td>
+</tr>
 
-<td width="33%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 ### 🎓 EduTracker
-
-Student productivity platform for:
+**Student productivity and attendance platform**
 
 - Attendance tracking
 - Class schedules
@@ -98,11 +165,10 @@ Student productivity platform for:
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🌐 LingoVerse
-
-Language-learning platform featuring:
+**Language-learning platform**
 
 - 20+ languages
 - Interactive flashcards
@@ -125,6 +191,17 @@ Language-learning platform featuring:
 
 ---
 
+## 📦 Other Projects
+
+- 🧑‍💼 **[Portfolio Website](https://dahiya-prtk-portfolio.onrender.com/)** — Personal portfolio showcasing projects, resume, and skills.  
+  [Source Code](https://github.com/PrateekDahiya/my-portfolio)
+
+- 👾 **[Pac-Man Clone](https://dahiya-prtk27.itch.io/pacman-clone)** — GameMaker implementation of classic Pac-Man with working character logic.
+
+- 🔧 **[Automatic Garage Opener](https://www.tinkercad.com/things/7rnUvI87Rk0-automatic-garage-opener)** — Arduino + IR sensor-based smart-home garage automation.
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -141,7 +218,6 @@ Language-learning platform featuring:
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs"/>
   <img src="https://img.shields.io/badge/Microservices-20232A?style=flat-square&logo=buffer&logoColor=white" alt="Microservices"/>
 </p>
